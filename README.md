@@ -1,4 +1,4 @@
 # pubnotes
 Publicly shared notes 
 
-![image](https://github.com/kpcodes72/pubnotes/assets/8533158/26bf7a71-f5b9-46a4-8ae3-40910f07e545)
+![robot](https://github.com/kpcodes72/pubnotes/assets/8533158/792ba9f2-60ed-4836-b415-90a69340b6e8)
